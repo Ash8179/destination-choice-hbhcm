@@ -69,6 +69,7 @@ Install dependencies via:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Workflow
 
@@ -79,10 +80,6 @@ The codebase follows a sequential pipeline:
 	4.	Design SP experiment (Appendix E)
 	5.	Estimate models (Appendix F)
 	6.	Conduct robustness checks (Appendix G)
-
-## Notes
-	•	Some datasets are not publicly available due to licensing or privacy restrictions
-	•	The repository focuses on methodological reproducibility rather than data sharing
 
 ## Author
 
