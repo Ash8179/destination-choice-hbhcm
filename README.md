@@ -32,25 +32,25 @@ The repository is organized following the Appendix structure of the thesis to en
 
 ### Description of Each Module
 
-- **Appendix A – Spatial Framework, Data Sources, and Study Scope**  
+**Appendix A – Spatial Framework, Data Sources, and Study Scope**  
   Construction of the spatial analysis framework, study boundaries, and integration of raw data sources.
 
-- **Appendix B – Origin Table Construction**  
+**Appendix B – Origin Table Construction**  
   Processing and aggregation of origin-level data.
 
-- **Appendix C – Destination Table Construction**  
+**Appendix C – Destination Table Construction**  
   Assembly of destination (POI) database and extraction of perceptual features using computer vision.
 
-- **Appendix D – Travel Skims Calculation**  
+**Appendix D – Travel Skims Calculation**  
   Computation of travel impedance matrices, including travel time, cost, and transfers.
 
-- **Appendix E – SP Survey Design**  
+**Appendix E – SP Survey Design**  
   Experimental design and generation of stated preference choice scenarios.
 
-- **Appendix F – Model Specification and Estimation Results**  
+**Appendix F – Model Specification and Estimation Results**  
   Implementation of the Hybrid Choice Model and estimation procedures.
 
-- **Appendix G – Robustness Checks**  
+**Appendix G – Robustness Checks**  
   Sensitivity analysis and robustness validation of model results.
 
 ## Requirements
