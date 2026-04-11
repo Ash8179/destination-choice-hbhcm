@@ -1,0 +1,15 @@
+Parameter,Layer,Mean,SD,HDI_3%,HDI_97%,P(>0),Significant
+β_S_med (shared),SP+OD,0.2275,0.0716,0.0924,0.3628,1.0,Yes
+β_S_lrg (shared),SP+OD,1.1971,0.0608,1.0803,1.3135,1.0,Yes
+β_GTC,SP only,-0.0079,0.001,-0.0098,-0.006,0.0,Yes
+ASC_A,SP only,1.2326,0.1157,1.0189,1.4536,1.0,Yes
+ASC_B,SP only,0.9792,0.1148,0.7636,1.1969,1.0,Yes
+γ_Pleasantness,SP only,0.0294,0.0774,-0.1168,0.1747,0.652,No
+γ_Vibrancy,SP only,0.2993,0.0683,0.1693,0.4269,1.0,Yes
+γ_Walkability,SP only,-0.2285,0.0726,-0.3658,-0.0898,0.0,Yes
+γ_Experiential,SP only,0.1319,0.0741,-0.0068,0.2698,0.963,No
+δ_vibrancy,OD only,0.2558,0.0611,0.1413,0.3699,1.0,Yes
+δ_pleasantness,OD only,0.1924,0.0661,0.0688,0.316,0.998,Yes
+δ_walkability,OD only,0.1536,0.0321,0.0936,0.2154,1.0,Yes
+δ_safety,OD only,0.013,0.0337,-0.0512,0.0764,0.653,No
+δ_experiential,OD only,-0.0123,0.0426,-0.0909,0.0689,0.386,No
